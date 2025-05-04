@@ -1,4 +1,4 @@
-module github.com/FurqanSoftware/goldmark-d2
+module github.com/pedreviljoen/goldmark-d2
 
 go 1.24
 
